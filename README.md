@@ -1,6 +1,6 @@
 Description:
 
-This is an application that I have built in order to have a convenient note taking app. This apphas a very simple user interface, containing just one blank text file. When the file is edited, it will automatically save your changes.
+This is an application that I have built in order to have a convenient note taking app. This app has a very simple user interface, containing just one blank text file. When the file is edited, it will automatically save your changes. Refreshing the page or reopening the application will show taht your last changes have been saved. Most of the code in the repository is from starter code, but i had to make changes to make the application functional. The majority of my edits were in the webpack, database.js and install.js files. In the webpack file, I added CSS loaders and babel, and I also configured a workbox plugin for a service worker. The rest of the code that I wrote mainly focused on linking a database to the application. This is so that the database can store the user input from the textfield, and it can then be retrieved and displayed for the user the next time that they use the application. 
 
 User instructions:
 
