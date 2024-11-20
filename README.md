@@ -1,5 +1,6 @@
 Description:
 
+This is an application that I have built in order to have a convenient note taking app. This apphas a very simple user interface, containing just one blank text file. When the file is edited, it will automatically save your changes.
 
 User instructions:
 
