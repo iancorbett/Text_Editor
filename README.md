@@ -11,6 +11,9 @@ In order to contribute to this page, you need to have permission from the reposi
 
 Screenshots:
 
+![Capture](https://github.com/user-attachments/assets/3b413b4f-5cbe-4e3b-901b-e9e20eb5cc6a)
+
+
 Sources:
 
 For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. This code included all of the HTML as well all of the CSS.
