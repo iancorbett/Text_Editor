@@ -15,6 +15,8 @@ Sources:
 
 Link to Deployed Project:
 
+https://text-editor-x02z.onrender.com/
+
 License:
 
 MIT License
