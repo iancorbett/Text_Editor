@@ -3,7 +3,7 @@ Description:
 
 User instructions:
 
-
+In order to use the application, you will need only to click on the render link, which will take you to the deployed application. Here you will be able to type into the note and it will save yoiur progress until you revisit it. Additionally, you can get the desktop icon on your desktop, and if you open the application that way, it will show you your saved note.
 
 Contribution guidelines:
 
