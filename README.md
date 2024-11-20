@@ -13,7 +13,7 @@ Screenshots:
 
 Sources:
 
-For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. 
+For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. This code included all of the HTML as well all of the CSS.
 
 Link to Deployed Project:
 
