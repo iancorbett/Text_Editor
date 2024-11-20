@@ -16,7 +16,7 @@ Screenshots:
 
 Sources:
 
-For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. This code included all of the HTML as well all of the CSS.
+For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. This code included all of the HTML as well all of the CSS. My changes were primarily made in the webpack file as well as the install and database javascript files. Additionally, I had help from a tutor named Joem. I was having one major issue, which was that the notes were not saving properly. The notes would be saved in the local stroage, but would not appear when the application was reloaded. Since there is only supposed to be one note saved, this was a significant bug. However, Joem was able to help me make it so that only one note is saved, and it is shown whenever the application is loaded. Other than this, I luckily did not run into any other major errors or bugs.
 
 Link to Deployed Project:
 
