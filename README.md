@@ -13,6 +13,8 @@ Screenshots:
 
 Sources:
 
+For this project, there was starter code that was given to me, for me to add on to in order to make the application functional. 
+
 Link to Deployed Project:
 
 https://text-editor-x02z.onrender.com/
